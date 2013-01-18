@@ -1,0 +1,3 @@
+Per installare, creare un db mysql, popolarlo con lo script install.sql, modificare il file config.php con le informazioni per l'accesso al db.
+
+Come requisiti minimi per il webserver, PHP (>5.3) usa i moduli json e PDO.
